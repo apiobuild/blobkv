@@ -116,7 +116,6 @@ func (i I) add(key string, payload model.Payload, metadata *model.Metadata, forc
 		})
 		return
 	}
-
 	return
 }
 
